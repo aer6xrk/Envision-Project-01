@@ -1,0 +1,173 @@
+.painting-vertical{
+    
+    width:25%;
+    max-width:400px;
+    min-width:125px
+}
+
+.painting-horizontal{
+    
+    padding:10px;
+    width:37%;
+    max-width:450px;
+    min-width:200px
+}
+
+.paintbynumber{
+    
+    margin-left:auto;
+    margin-right:auto;
+    width:80%
+}
+
+
+.fitness-vertical{
+    
+    width:19%;
+    padding:10px
+    
+}
+
+.fitness-horizontal1{
+    
+    width:35%;
+    padding:10px
+
+}
+
+.fitness-horizontal2{
+    
+    width: 39%;
+    padding:10px;
+    margin-bottom: 20px
+}
+
+.fitness{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width:80%
+}
+
+
+.tv{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%
+}
+
+.tv-horizontal{
+    
+    width:40%;
+    padding:20px;
+    max-width:400px;
+    min-width:125px
+}
+
+.tv-vertical{
+    
+    width:20%;
+    padding:10px;
+    max-height: 400px;
+    min-height: 125px;
+}
+
+*{
+    
+    background-color:lavenderblush
+}
+
+h1{
+    
+    font-family: "Roboto";
+    font-size:50px;
+    display: flex;
+    justify-content: center;
+}
+
+h4{
+    
+    font-family: "Open Sans Condensed";
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.food-list{
+    
+    font-family: "Open Sans Condensed";
+    font-size: 20px;
+    flex:1;
+    
+    
+    
+    
+    
+    
+}
+
+.food-pics{
+    
+    display: flex;
+    justify-content: flex-end
+    
+    
+    
+}
+
+#cooking-container{
+    
+    display: flex;
+
+}
+
+.restaurant{
+    
+    width:60%;
+    margin:5px;
+}
+
+p{
+    
+    font-family: "Open Sans";
+    font-size:15px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.lego-pic{
+    
+    width:20%;
+    margin-left:30px;
+    margin-right:30px
+}
+
+.lego{
+    
+    display: flex;
+    justify-content: center;
+}
+
+.tab{
+    
+    font-family: "Roboto";
+    margin:20px;
+    font-size:20px;
+}
+
+
+#all-food-pics {
+    
+    flex:1;
+}
+
+.note {
+    margin-left:5px;
+    margin-right: 5px;
+}
+
+
